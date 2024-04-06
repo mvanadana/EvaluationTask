@@ -1,0 +1,386 @@
+{
+  "Element": [
+    {
+      "Category": "Levels",
+      "Data": [
+        {
+          "ElementName": "8808",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "2794",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "5631",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "5562",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "5608",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "355",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "5661",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Walls",
+      "Data": [
+        {
+          "ElementName": "288192",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "288207",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "288193",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "288206",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "288205",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        },
+        {
+          "ElementName": "288191",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": null,
+      "Data": [
+        {
+          "ElementName": "Grid Line 1/2\"__1130",
+          "Transformation": {
+            "transformationObject.M00": 1.0,
+            "transformationObject.M01": 1.0,
+            "transformationObject.M02": 1.0,
+            "transformationObject.M03": 1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 0.0,
+            "transformationObject.M31": 0.0,
+            "transformationObject.M32": 0.0,
+            "transformationObject.M33": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Doors",
+      "Data": [
+        {
+          "ElementName": "289018",
+          "Transformation": {
+            "transformationObject.M00": -1.0,
+            "transformationObject.M01": -1.0,
+            "transformationObject.M02": -1.0,
+            "transformationObject.M03": -1.0,
+            "transformationObject.M10": 0.0,
+            "transformationObject.M11": 0.0,
+            "transformationObject.M12": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 21.6988945,
+            "transformationObject.M31": 21.6988945,
+            "transformationObject.M32": 21.6988945,
+            "transformationObject.M33": 21.6988945
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Windows",
+      "Data": [
+        {
+          "ElementName": "289123",
+          "Transformation": {
+            "transformationObject.M00": 0.0,
+            "transformationObject.M01": 0.0,
+            "transformationObject.M02": 0.0,
+            "transformationObject.M03": 0.0,
+            "transformationObject.M10": -1.0,
+            "transformationObject.M11": -1.0,
+            "transformationObject.M12": -1.0,
+            "transformationObject.M13": -1.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 89.38185,
+            "transformationObject.M31": 89.38185,
+            "transformationObject.M32": 89.38185,
+            "transformationObject.M33": 89.38185
+          }
+        },
+        {
+          "ElementName": "289078",
+          "Transformation": {
+            "transformationObject.M00": 0.0,
+            "transformationObject.M01": 0.0,
+            "transformationObject.M02": 0.0,
+            "transformationObject.M03": 0.0,
+            "transformationObject.M10": -1.0,
+            "transformationObject.M11": -1.0,
+            "transformationObject.M12": -1.0,
+            "transformationObject.M13": -1.0,
+            "transformationObject.M20": 0.0,
+            "transformationObject.M21": 0.0,
+            "transformationObject.M22": 0.0,
+            "transformationObject.M23": 0.0,
+            "transformationObject.M30": 41.6988945,
+            "transformationObject.M31": 41.6988945,
+            "transformationObject.M32": 41.6988945,
+            "transformationObject.M33": 41.6988945
+          }
+        }
+      ]
+    }
+  ]
+}
